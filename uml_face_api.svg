@@ -1,0 +1,4224 @@
+{
+  "contentType": "application/gliffy+json",
+  "version": "1.3",
+  "metadata": {
+    "title": "untitled",
+    "revision": 0,
+    "exportBorder": false,
+    "loadPosition": "default",
+    "libraries": [
+      "com.gliffy.libraries.uml.uml_v2.class",
+      "com.gliffy.libraries.uml.uml_v1.default",
+      "com.gliffy.libraries.basic.basic_v1.default",
+      "com.gliffy.libraries.images"
+    ],
+    "autosaveDisabled": false,
+    "lastSerialized": 1443190437273,
+    "analyticsProduct": "Online"
+  },
+  "embeddedResources": {
+    "index": 0,
+    "resources": []
+  },
+  "stage": {
+    "objects": [
+      {
+        "x": 602,
+        "y": 973.5,
+        "rotation": 0,
+        "id": 1361,
+        "uid": "com.gliffy.shape.basic.basic_v1.default.text",
+        "width": 150,
+        "height": 14,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 175,
+        "hidden": false,
+        "graphic": {
+          "type": "Text",
+          "Text": {
+            "tid": null,
+            "valign": "middle",
+            "overflow": "none",
+            "vposition": "none",
+            "hposition": "none",
+            "html": "<p style=\"text-align:center;\"><span style=\"font-family:Arial;font-size:12px;\"><span style=\"line-height: 14px;\">2</span></span></p>",
+            "paddingLeft": 2,
+            "paddingRight": 2,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+            "outerPaddingLeft": 6,
+            "outerPaddingRight": 6,
+            "outerPaddingBottom": 2,
+            "outerPaddingTop": 6
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "linkMap": []
+      },
+      {
+        "x": 229,
+        "y": 1037,
+        "rotation": 0,
+        "id": 1359,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.usage",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 174,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": "8.0,2.0",
+            "startArrow": 0,
+            "endArrow": 6,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                194,
+                -39
+              ],
+              [
+                -89,
+                -39
+              ],
+              [
+                -89,
+                -470
+              ],
+              [
+                -49,
+                -470
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1360,
+            "uid": null,
+            "width": 59,
+            "height": 14,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": "auto",
+            "hidden": false,
+            "graphic": {
+              "type": "Text",
+              "Text": {
+                "tid": null,
+                "valign": "middle",
+                "overflow": "both",
+                "vposition": "none",
+                "hposition": "none",
+                "html": "<p style=\"text-align:center;\"><span style=\"font-family:Arial;font-size:12px;\"><span style=\"text-decoration: none; font-family: Arial; font-size: 12px; line-height: 14px;\">&lt;&lt;uses&gt;&gt;</span></span></p>",
+                "paddingLeft": 2,
+                "paddingRight": 2,
+                "paddingBottom": 2,
+                "paddingTop": 2,
+                "outerPaddingLeft": 6,
+                "outerPaddingRight": 6,
+                "outerPaddingBottom": 2,
+                "outerPaddingTop": 6
+              }
+            },
+            "children": [],
+            "layerId": "c0yKm8OgLlKS"
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1346,
+              "px": 0,
+              "py": 0.5
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1255,
+              "px": 0,
+              "py": 0.5
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 720,
+        "y": 1028,
+        "rotation": 0,
+        "id": 1357,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.usage",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 173,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": "8.0,2.0",
+            "startArrow": 0,
+            "endArrow": 6,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                -157,
+                -30
+              ],
+              [
+                108,
+                -30
+              ],
+              [
+                108,
+                -228
+              ],
+              [
+                68,
+                -228
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1358,
+            "uid": null,
+            "width": 59,
+            "height": 14,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": "auto",
+            "hidden": false,
+            "graphic": {
+              "type": "Text",
+              "Text": {
+                "tid": null,
+                "valign": "middle",
+                "overflow": "both",
+                "vposition": "none",
+                "hposition": "none",
+                "html": "<p style=\"text-align:center;\"><span style=\"font-family:Arial;font-size:12px;\"><span style=\"text-decoration: none; font-family: Arial; font-size: 12px; line-height: 14px;\">&lt;&lt;uses&gt;&gt;</span></span></p>",
+                "paddingLeft": 2,
+                "paddingRight": 2,
+                "paddingBottom": 2,
+                "paddingTop": 2,
+                "outerPaddingLeft": 6,
+                "outerPaddingRight": 6,
+                "outerPaddingBottom": 2,
+                "outerPaddingTop": 6
+              }
+            },
+            "children": [],
+            "layerId": "c0yKm8OgLlKS"
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1346,
+              "px": 1,
+              "py": 0.5
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1262,
+              "px": 1,
+              "py": 0.5909090909090909
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 276,
+        "y": 970,
+        "rotation": 0,
+        "id": 1353,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.usage",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 171,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": "8.0,2.0",
+            "startArrow": 0,
+            "endArrow": 6,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                147,
+                -24
+              ],
+              [
+                -93,
+                -24
+              ],
+              [
+                -93,
+                -139
+              ],
+              [
+                -53,
+                -139
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1354,
+            "uid": null,
+            "width": 59,
+            "height": 14,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": "auto",
+            "hidden": false,
+            "graphic": {
+              "type": "Text",
+              "Text": {
+                "tid": null,
+                "valign": "middle",
+                "overflow": "both",
+                "vposition": "none",
+                "hposition": "none",
+                "html": "<p style=\"text-align:center;\"><span style=\"font-family:Arial;font-size:12px;\"><span style=\"text-decoration: none; font-family: Arial; font-size: 12px; line-height: 14px;\">&lt;&lt;uses&gt;&gt;</span></span></p>",
+                "paddingLeft": 2,
+                "paddingRight": 2,
+                "paddingBottom": 2,
+                "paddingTop": 2,
+                "outerPaddingLeft": 6,
+                "outerPaddingRight": 6,
+                "outerPaddingBottom": 2,
+                "outerPaddingTop": 6
+              }
+            },
+            "children": [],
+            "layerId": "c0yKm8OgLlKS"
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1346,
+              "px": 0,
+              "py": 0.10606060606060606
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1269,
+              "px": 0,
+              "py": 0.7272727272727273
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 600,
+        "y": 250,
+        "rotation": 0,
+        "id": 1342,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.implements",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 151,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": "8.0,2.0",
+            "startArrow": 0,
+            "endArrow": 4,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                -46,
+                -44
+              ],
+              [
+                25,
+                -44
+              ],
+              [
+                25,
+                -185
+              ],
+              [
+                -15,
+                -185
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1297,
+              "px": 1,
+              "py": 0.4318181818181818
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1304,
+              "px": 1,
+              "py": 0.5
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 266,
+        "y": 60,
+        "rotation": 0,
+        "id": 1341,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.implements",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 150,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": "8.0,2.0",
+            "startArrow": 0,
+            "endArrow": 4,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                150,
+                305.73972602739724
+              ],
+              [
+                -27,
+                305.73972602739724
+              ],
+              [
+                -27,
+                -11
+              ],
+              [
+                13,
+                -11
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1318,
+              "px": 0,
+              "py": 0.2671232876712329
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1325,
+              "px": 0,
+              "py": 0.3181818181818182
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 797,
+        "y": 680,
+        "rotation": 0,
+        "id": 1339,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.generalization",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 149,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": null,
+            "startArrow": 0,
+            "endArrow": 4,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                -381,
+                -340.56164383561645
+              ],
+              [
+                -423,
+                -340.56164383561645
+              ],
+              [
+                -423,
+                -499
+              ],
+              [
+                -383,
+                -499
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1318,
+              "px": 0,
+              "py": 0.10273972602739725
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1297,
+              "px": 0,
+              "py": 0.24242424242424243
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 1218,
+        "y": 460,
+        "rotation": 0,
+        "id": 1338,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.implements",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 148,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": "8.0,2.0",
+            "startArrow": 0,
+            "endArrow": 4,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                -650,
+                137
+              ],
+              [
+                -581,
+                137
+              ],
+              [
+                -581,
+                -246
+              ],
+              [
+                -512,
+                -246
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1290,
+              "px": 1,
+              "py": 0.5547945205479452
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1311,
+              "px": 0,
+              "py": 0.32575757575757575
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 1251,
+        "y": 380,
+        "rotation": 0,
+        "id": 1337,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.generalization",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 147,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": null,
+            "startArrow": 0,
+            "endArrow": 4,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                -683,
+                184
+              ],
+              [
+                -643,
+                184
+              ],
+              [
+                -643,
+                -137
+              ],
+              [
+                -697,
+                -137
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1290,
+              "px": 1,
+              "py": 0.3287671232876712
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1297,
+              "px": 1,
+              "py": 0.7121212121212122
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 908,
+        "y": 454,
+        "rotation": 0,
+        "id": 1335,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.generalization",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 146,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": null,
+            "startArrow": 0,
+            "endArrow": 4,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                -545,
+                347
+              ],
+              [
+                -512.5,
+                347
+              ],
+              [
+                -512.5,
+                122
+              ],
+              [
+                -480,
+                122
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1269,
+              "px": 1,
+              "py": 0.5
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1290,
+              "px": 0,
+              "py": 0.410958904109589
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 1059,
+        "y": 200,
+        "rotation": 0,
+        "id": 1334,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.generalization",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 145,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": null,
+            "startArrow": 0,
+            "endArrow": 4,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                -411,
+                588
+              ],
+              [
+                -451,
+                588
+              ],
+              [
+                -451,
+                434
+              ],
+              [
+                -491,
+                434
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1262,
+              "px": 0,
+              "py": 0.5
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1290,
+              "px": 1,
+              "py": 0.8082191780821918
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 870,
+        "y": 307,
+        "rotation": 0,
+        "id": 1333,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.generalization",
+        "width": 100,
+        "height": 100,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 144,
+        "hidden": false,
+        "graphic": {
+          "type": "Line",
+          "Line": {
+            "strokeWidth": 1,
+            "strokeColor": "#000000",
+            "fillColor": "none",
+            "dashStyle": null,
+            "startArrow": 0,
+            "endArrow": 4,
+            "startArrowRotation": "auto",
+            "endArrowRotation": "auto",
+            "ortho": true,
+            "interpolationType": "linear",
+            "cornerRadius": null,
+            "controlPath": [
+              [
+                -550,
+                260
+              ],
+              [
+                -502,
+                260
+              ],
+              [
+                -502,
+                78.46575342465752
+              ],
+              [
+                -454,
+                78.46575342465752
+              ]
+            ],
+            "lockSegments": {}
+          }
+        },
+        "children": [],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [],
+          "startConstraint": {
+            "type": "StartPositionConstraint",
+            "StartPositionConstraint": {
+              "nodeId": 1255,
+              "px": 1,
+              "py": 0.5
+            }
+          },
+          "endConstraint": {
+            "type": "EndPositionConstraint",
+            "EndPositionConstraint": {
+              "nodeId": 1318,
+              "px": 0,
+              "py": 0.3904109589041096
+            }
+          }
+        },
+        "linkMap": []
+      },
+      {
+        "x": 180,
+        "y": 487,
+        "rotation": 0,
+        "id": 1255,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.class",
+        "width": 140,
+        "height": 160,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 0,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1256,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 2,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1257,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 5,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">MonsterFace</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1257
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 30,
+            "rotation": 0,
+            "id": 1258,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 7,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1259,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 10,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1256,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1259
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 60,
+            "rotation": 0,
+            "id": 1260,
+            "uid": null,
+            "width": 140,
+            "height": 100,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 12,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1261,
+                "uid": null,
+                "width": 140,
+                "height": 100,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 15,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+init</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+addShape()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+add()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+replaceShape()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+remove()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+draw()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1255
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1256
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1258
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1258,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1256
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1258
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1261
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 648,
+        "y": 722,
+        "rotation": 0,
+        "id": 1262,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.class",
+        "width": 140,
+        "height": 132,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 16,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1263,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 18,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1264,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 21,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">MonsterEye</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1264
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 30,
+            "rotation": 0,
+            "id": 1265,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 23,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1266,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 26,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1263,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1266
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 60,
+            "rotation": 0,
+            "id": 1267,
+            "uid": null,
+            "width": 140,
+            "height": 72,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 28,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1268,
+                "uid": null,
+                "width": 140,
+                "height": 72,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 31,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+init</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+status()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+open()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+close()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1262
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1263
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1265
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1265,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1263
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1265
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1268
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 223,
+        "y": 735,
+        "rotation": 0,
+        "id": 1269,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.class",
+        "width": 140,
+        "height": 132,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 32,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1270,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 34,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1271,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 37,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">MonsterMouth</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1271
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 30,
+            "rotation": 0,
+            "id": 1272,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 39,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1273,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 42,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1270,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1273
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 60,
+            "rotation": 0,
+            "id": 1274,
+            "uid": null,
+            "width": 140,
+            "height": 72,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 44,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1275,
+                "uid": null,
+                "width": 140,
+                "height": 72,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 47,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+init</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+status()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+open()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+close()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1269
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1270
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1272
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1272,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1270
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1272
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1275
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 428,
+        "y": 516,
+        "rotation": 0,
+        "id": 1290,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.class",
+        "width": 140,
+        "height": 146,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 48,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1291,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 50,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1292,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 53,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">AnimatedFeature</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1292
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 30,
+            "rotation": 0,
+            "id": 1293,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 55,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1294,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 58,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1291,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1294
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 60,
+            "rotation": 0,
+            "id": 1295,
+            "uid": null,
+            "width": 140,
+            "height": 86,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 60,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1296,
+                "uid": null,
+                "width": 140,
+                "height": 72,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 63,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+init</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+open()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+close()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+status()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1290
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1291
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1293
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1293,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1291
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1293
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1296
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 414,
+        "y": 149,
+        "rotation": 0,
+        "id": 1297,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.class",
+        "width": 140,
+        "height": 132,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 64,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1298,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 66,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1299,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 69,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">BasicFeature</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1299
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 30,
+            "rotation": 0,
+            "id": 1300,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 71,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1301,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 74,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1298,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1301
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 60,
+            "rotation": 0,
+            "id": 1302,
+            "uid": null,
+            "width": 140,
+            "height": 72,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 76,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1303,
+                "uid": null,
+                "width": 140,
+                "height": 72,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 79,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+init</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+getID()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+position()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+draw()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1297
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1298
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1300
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1300,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1298
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1300
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1303
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 445,
+        "y": 10,
+        "rotation": 0,
+        "id": 1304,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.interface",
+        "width": 140,
+        "height": 110,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 80,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1305,
+            "uid": null,
+            "width": 140,
+            "height": 44,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 82,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1306,
+                "uid": null,
+                "width": 140,
+                "height": 44,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 85,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-family: Arial; font-size: 12px; line-height: 14px;\">&lt;&lt;interface&gt;&gt;</span></p><p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">FeatureProtocol</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1306
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 44,
+            "rotation": 0,
+            "id": 1307,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 87,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1308,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 90,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px; color: rgb(0, 0, 0);\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1305,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1308
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 74,
+            "rotation": 0,
+            "id": 1309,
+            "uid": null,
+            "width": 140,
+            "height": 36,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 92,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1310,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 95,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+draw()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1304
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1305
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1307
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1307,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1305
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1307
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1310
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 706,
+        "y": 171,
+        "rotation": 0,
+        "id": 1311,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.interface",
+        "width": 140,
+        "height": 132,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 96,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1312,
+            "uid": null,
+            "width": 140,
+            "height": 44,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 98,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1313,
+                "uid": null,
+                "width": 140,
+                "height": 44,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 101,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-family: Arial; font-size: 12px; line-height: 14px;\">&lt;&lt;interface&gt;&gt;</span></p><p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">AnimatedProtocol</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1313
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 44,
+            "rotation": 0,
+            "id": 1314,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 103,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1315,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 106,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px; color: rgb(0, 0, 0);\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1312,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1315
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 74,
+            "rotation": 0,
+            "id": 1316,
+            "uid": null,
+            "width": 140,
+            "height": 58,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 108,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1317,
+                "uid": null,
+                "width": 140,
+                "height": 58,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 111,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+open()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+close()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+status()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1311
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1312
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1314
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1314,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1312
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1314
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1317
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 416,
+        "y": 323,
+        "rotation": 0,
+        "id": 1318,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.class",
+        "width": 140,
+        "height": 160,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 112,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1319,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 114,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1320,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 117,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">FaceGroup</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1320
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 30,
+            "rotation": 0,
+            "id": 1321,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 119,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1322,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 122,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1319,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1322
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 60,
+            "rotation": 0,
+            "id": 1323,
+            "uid": null,
+            "width": 140,
+            "height": 100,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 124,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1324,
+                "uid": null,
+                "width": 140,
+                "height": 100,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 127,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+init</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+addShape()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+add()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+replaceShape()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+remove()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+draw()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1318
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1319
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1321
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1321,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1319
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1321
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1324
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 279,
+        "y": 7,
+        "rotation": 0,
+        "id": 1325,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.interface",
+        "width": 140,
+        "height": 132,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 128,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1326,
+            "uid": null,
+            "width": 140,
+            "height": 44,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 130,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1327,
+                "uid": null,
+                "width": 140,
+                "height": 44,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 133,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-family: Arial; font-size: 12px; line-height: 14px;\">&lt;&lt;interface&gt;&gt;</span></p><p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">GroupProtocol</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1327
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 44,
+            "rotation": 0,
+            "id": 1328,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 135,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1329,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 138,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px; color: rgb(0, 0, 0);\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1326,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1329
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 74,
+            "rotation": 0,
+            "id": 1330,
+            "uid": null,
+            "width": 140,
+            "height": 58,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 140,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1331,
+                "uid": null,
+                "width": 140,
+                "height": 58,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 143,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+add()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+replaceShape()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+remove()</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1325
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1326
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1328
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1328,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1326
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1328
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1331
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      },
+      {
+        "x": 423,
+        "y": 932,
+        "rotation": 0,
+        "id": 1346,
+        "uid": "com.gliffy.shape.uml.uml_v2.class.class",
+        "width": 140,
+        "height": 132,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 155,
+        "hidden": false,
+        "graphic": null,
+        "children": [
+          {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "id": 1347,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 157,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1348,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 160,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:center;\"><span style=\"text-decoration: none; font-weight: bold; font-family: Arial; font-size: 12px; line-height: 14px;\">AvatarFace</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1348
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 30,
+            "rotation": 0,
+            "id": 1349,
+            "uid": null,
+            "width": 140,
+            "height": 30,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 162,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1350,
+                "uid": null,
+                "width": 140,
+                "height": 30,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 165,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1347,
+                    "px": 0,
+                    "py": 1
+                  }
+                },
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1350
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": true,
+                    "padding": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "x": 0,
+            "y": 60,
+            "rotation": 0,
+            "id": 1351,
+            "uid": null,
+            "width": 140,
+            "height": 72,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 167,
+            "hidden": false,
+            "graphic": {
+              "type": "Shape",
+              "Shape": {
+                "tid": "com.gliffy.stencil.rectangle.basic_v1",
+                "strokeWidth": 2,
+                "strokeColor": "#000000",
+                "fillColor": "#FFFFFF",
+                "gradient": false,
+                "dropShadow": true,
+                "state": 0,
+                "shadowX": 4,
+                "shadowY": 4,
+                "opacity": 1
+              }
+            },
+            "children": [
+              {
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "id": 1352,
+                "uid": null,
+                "width": 140,
+                "height": 72,
+                "lockAspectRatio": false,
+                "lockShape": false,
+                "order": 170,
+                "hidden": false,
+                "graphic": {
+                  "type": "Text",
+                  "Text": {
+                    "tid": null,
+                    "valign": "top",
+                    "overflow": "none",
+                    "vposition": "none",
+                    "hposition": "none",
+                    "html": "<p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+draw()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+status()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">+change()</span></p><p style=\"text-align:left;\"><span style=\"text-decoration: none; font-weight: normal; font-family: Arial; font-size: 12px; line-height: 14px;\">&nbsp;</span></p>",
+                    "paddingLeft": 8,
+                    "paddingRight": 8,
+                    "paddingBottom": 8,
+                    "paddingTop": 8,
+                    "outerPaddingLeft": 6,
+                    "outerPaddingRight": 6,
+                    "outerPaddingBottom": 2,
+                    "outerPaddingTop": 6
+                  }
+                },
+                "children": [],
+                "layerId": null
+              }
+            ],
+            "layerId": null,
+            "constraints": {
+              "constraints": [
+                {
+                  "type": "HeightConstraint",
+                  "HeightConstraint": {
+                    "isMin": false,
+                    "heightInfo": [
+                      {
+                        "magnitude": 1,
+                        "id": 1346
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1347
+                      },
+                      {
+                        "magnitude": -1,
+                        "id": 1349
+                      }
+                    ],
+                    "minHeight": 0,
+                    "growParent": false,
+                    "padding": 0
+                  }
+                },
+                {
+                  "type": "PositionConstraint",
+                  "PositionConstraint": {
+                    "nodeId": 1349,
+                    "px": 0,
+                    "py": 1
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "layerId": "c0yKm8OgLlKS",
+        "constraints": {
+          "constraints": [
+            {
+              "type": "HeightConstraint",
+              "HeightConstraint": {
+                "isMin": true,
+                "heightInfo": [
+                  {
+                    "magnitude": 1,
+                    "id": 1347
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1349
+                  },
+                  {
+                    "magnitude": 1,
+                    "id": 1352
+                  }
+                ],
+                "minHeight": 0,
+                "growParent": false,
+                "padding": 0
+              }
+            }
+          ]
+        },
+        "linkMap": []
+      }
+    ],
+    "background": "#ffffff",
+    "width": 854,
+    "height": 1072,
+    "maxWidth": 5000,
+    "maxHeight": 5000,
+    "nodeIndex": 1363,
+    "autoFit": true,
+    "exportBorder": false,
+    "gridOn": true,
+    "snapToGrid": false,
+    "drawingGuidesOn": false,
+    "pageBreaksOn": false,
+    "printGridOn": false,
+    "printPaper": "LETTER",
+    "printShrinkToFit": false,
+    "printPortrait": true,
+    "shapeStyles": {
+      "com.gliffy.shpe.uml.uml_v1.default": {
+        "stroke": "#666666"
+      },
+      "com.gliffy.shape.basic.basic_v1.default": {
+        "fill": "#6ccff7",
+        "stroke": "#333333",
+        "gradient": true
+      },
+      "com.gliffy.shape.flowchart.flowchart_v1.default": {
+        "fill": "#6ccff7",
+        "stroke": "#333333",
+        "gradient": true
+      }
+    },
+    "lineStyles": {
+      "global": {
+        "stroke": "#333333",
+        "strokeWidth": 2,
+        "dashStyle": "4.0,4.0",
+        "startArrow": 1,
+        "orthoMode": 0
+      }
+    },
+    "textStyles": {
+      "global": {
+        "italic": true,
+        "face": "Arial",
+        "size": "13px",
+        "color": "#000000"
+      }
+    },
+    "themeData": null,
+    "viewportType": "default",
+    "layers": [
+      {
+        "guid": "c0yKm8OgLlKS",
+        "order": 0,
+        "name": "Layer 0",
+        "active": true,
+        "locked": false,
+        "visible": true,
+        "nodeIndex": 177
+      }
+    ],
+    "fitBB": {
+      "min": {
+        "x": 110.5,
+        "y": 7
+      },
+      "max": {
+        "x": 854,
+        "y": 1072
+      }
+    },
+    "printModel": {
+      "pageSize": "LETTER",
+      "portrait": true,
+      "fitToOnePage": false,
+      "displayPageBreaks": false
+    }
+  }
+}
