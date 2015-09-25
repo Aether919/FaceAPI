@@ -5,7 +5,9 @@ public enum Action
     closeEye   (0),
     openEye    (1),
     openMouth  (2),
-    closeMouth (3);
+    closeMouth (3),
+    archBrow   (4),
+    frownBrow  (5);
 
   private final int value;
   
