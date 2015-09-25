@@ -26,7 +26,7 @@ public class MonsterEye extends AnimatedFeature
   } 
 
   public PShape close() {
-    shape = createShape(LINE,x-10,y+2,x+10,y+2); //<>//
+    shape = createShape(LINE,x-10,y+2,x+10,y+2);
     shape.setFill(color(0));
     shape.setStrokeWeight(4);
     shape.setStroke(color(250,0,0));
@@ -34,6 +34,28 @@ public class MonsterEye extends AnimatedFeature
   }  
 }
 
+public class MonsterEyeBrow extends AnimatedFeature
+{
+   public MonsterEyeBrow(String id, int x, int y) {
+     super(id,x,y);
+     close();
+   }
+
+   public PShape close() {
+    shape = createShape(RECT,x,y,50,10);
+    shape.setFill(color(0));
+    shape.setStroke(color(0));
+    return super.close();
+  } 
+
+  public PShape open() {
+    shape = createShape(RECT,x,y-30,50,10);
+    shape.setFill(color(0));
+    //shape.setStrokeWeight(4);
+    shape.setStroke(color(0,0,0));
+    return super.open();
+  }  
+}
 
 public class MonsterMouth extends AnimatedFeature
 {  
@@ -67,11 +89,12 @@ public class MonsterMouth extends AnimatedFeature
   } 
 }
 
-
 public class AvatarFace
 {
     MonsterEye ojoIzq;
     MonsterEye ojoDer;
+    MonsterEyeBrow eyebrIzq;
+    MonsterEyeBrow eyebrDer;
   MonsterMouth boca;
    MonsterFace cara;
   
@@ -79,10 +102,14 @@ public class AvatarFace
   {
     ojoIzq = new MonsterEye("ojoIzq",   0, 0);
     ojoDer = new MonsterEye("ojoDer", 100, 0);
-      boca = new MonsterMouth("boca",   0, 0);
+    eyebrIzq = new MonsterEyeBrow("ejebrIzq", -30, -10);
+    eyebrDer = new MonsterEyeBrow("ejebrDer", 70, -10);
+      boca = new MonsterMouth("boca",  0, 0);
       cara = new MonsterFace("puppet");  
     cara.add(ojoIzq);
     cara.add(ojoDer);
+    cara.add(eyebrIzq);
+    cara.add(eyebrDer);
     cara.add(boca);
   }
 
@@ -104,7 +131,7 @@ public class AvatarFace
   {
     // PS BUG no-enum-switch 
     if (id == FeatureID.LeftEye) { // ojo izq?
-      if (action == Action.closeEye) { //<>//
+      if (action == Action.closeEye) {
           cara.replaceShape(ojoIzq.getID(),ojoIzq.close());
       } else {
           cara.replaceShape(ojoIzq.getID(),ojoIzq.open());
@@ -121,6 +148,20 @@ public class AvatarFace
       } else {
           cara.replaceShape(boca.getID(),boca.open());
       } // if close
-    } // else
-  } // change()
-} // AvatarFace class
+    }
+    else if (id == FeatureID.LeftBrow) { 
+      if (action == Action.archBrow) {
+          cara.replaceShape(eyebrIzq.getID(),eyebrIzq.open());
+      } else {
+          cara.replaceShape(eyebrIzq.getID(),eyebrIzq.close());
+      }
+    }
+    else if (id == FeatureID.RightBrow) { 
+      if (action == Action.archBrow) {
+          cara.replaceShape(eyebrDer.getID(),eyebrDer.open());
+      } else {
+          cara.replaceShape(eyebrDer.getID(),eyebrDer.close());
+      }
+    }
+  }
+}
