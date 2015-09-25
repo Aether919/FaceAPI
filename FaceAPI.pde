@@ -16,8 +16,8 @@ void draw() {
 
 void mousePressed()
 {
-  clicks = (clicks + 1) % 7; // 0...6
-  switch (clicks) { //<>//
+  clicks = (clicks + 1)  % 11; // 0...6
+  switch (clicks) {
     case 1: // close left eye
       monster.change(FeatureID.LeftEye,Action.closeEye);
       break;
@@ -27,14 +27,26 @@ void mousePressed()
     case 3: // close mouth
       monster.change(FeatureID.Mouth,Action.closeMouth);
       break;
-    case 4: // open left eye
+    case 4: // arch left brow
+      monster.change(FeatureID.LeftBrow,Action.archBrow);
+      break;
+    case 5: // arch right brow
+      monster.change(FeatureID.RightBrow,Action.archBrow);
+      break;
+    case 6: // open left eye
       monster.change(FeatureID.LeftEye,Action.openEye);
       break;
-    case 5: // open right eye
+    case 7: // open right eye
       monster.change(FeatureID.RightEye,Action.openEye);
       break;
-    case 6: // open mouth
+    case 8: // open mouth
       monster.change(FeatureID.Mouth,Action.openMouth);
+      break;
+    case 9: // frow left brow
+      monster.change(FeatureID.LeftBrow,Action.frownBrow);
+      break;
+    case 10: // frow right brow
+      monster.change(FeatureID.RightBrow,Action.frownBrow);
       break;
     case 0: // rotate
      //  monster.rotate(0.1); 
