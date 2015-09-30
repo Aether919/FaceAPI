@@ -11,12 +11,19 @@ void setup() {
 
 void draw() {
   background(200);
-  monster.draw(mouseX,mouseY);
+  if(monster.cara.rotate == true){
+  translate(mouseX, mouseY);   // Move coordinate system to center of sketch
+  rotate(millis() * 0.001 * TWO_PI / 10.0);   // Move 360 degrees in ten second
+  monster.draw(0, 0);
+  }
+  else{
+    monster.draw(mouseX, mouseY);
+  }
 }
 
 void mousePressed()
 {
-  clicks = (clicks + 1)  % 11; // 0...6
+  clicks = (clicks + 1)  % 13; // 0...6
   switch (clicks) {
     case 1: // close left eye
       monster.change(FeatureID.LeftEye,Action.closeEye);
@@ -48,7 +55,12 @@ void mousePressed()
     case 10: // frow right brow
       monster.change(FeatureID.RightBrow,Action.frownBrow);
       break;
-    case 0: // rotate
-     //  monster.rotate(0.1); 
+    case 11: // Rotate Face
+      monster.change(FeatureID.Face,Action.Rotate);
+      break;
+    case 12: // Stop Rotation
+      monster.change(FeatureID.Face,Action.Stop);
+      break;
+    case 0:
   }
 }
