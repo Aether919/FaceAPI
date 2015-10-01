@@ -15,12 +15,9 @@ public class MonsterFace extends FaceGroup
     nose.setStroke(color(0, 0, 0));
     shape.addChild(nose);
     
-    PShape beard = createShape(ARC, 45, 30, 100, 113, 0, PI, OPEN);
-    beard.setFill(color(161, 91, 48));
-    shape.addChild(beard);
-    
-    PShape hair = createShape(ARC, 40, -40, 175, 130, 2.7, 6.7, PIE);
+    PShape hair = createShape(ARC, 40, -40, 190, 130, 2.7, 6.7, PIE);
     hair.setFill(color(161, 91, 48));
+    hair.setStroke((color(161, 91, 48)));
     shape.addChild(hair);
   }
 }
